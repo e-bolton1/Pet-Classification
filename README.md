@@ -21,24 +21,27 @@ Once downloaded, extract the contents of the ZIP file to a folder on your comput
 │   ├── keras_model.h5
 │   ├── labels.txt
 ├── README.md
-├── TEST
-│   ├── healthy
+├── test_images
+│   ├── cat
 │   │   ├── ...
-│   ├── disease
+│   ├── dog
 │   │   ├── ...
-├── TRAIN
-│   ├── healthy
-│   │   ├── ...
-│   ├── disease
-│   │   ├── ...
+├── train_images
+│   ├── cat
+│   │   ├── average
+│   │   ├── bad
+│   │   ├── good
+│   ├── dog
+│   │   ├── average
+│   │   ├── bad
+│   │   ├── good
 ├── tutorial
 │   ├── ...
 ```
 
 - The `"README.md"` file contains this tutorial (but it will be easier to follow along on the GitHub page).
 - The `"tutorial"` folder contains images that will help you follow along with this tutorial.
-- The `"Train"` folder contains the training data, which consists of images of healthy and diseased lungs. The `"Test"` folder contains test images that you can use to evaluate your model.
-- The `"Exported Model"` folder contains a sample exported model trained on all images.
+- The `"train_images"` folder contains the training data, which consists of good, bad and average images of cats and dogs. The `"test_images"` folder contains test images that you can use to evaluate your model.
 
 ## Step 2: Get Started with Teachable Machine
 
@@ -56,11 +59,11 @@ Select `"Standard Image Model"` to create a model that can classify images.
 
 ## Step 3: Add Your Data
 
-Rename the classes to `"Healthy"` and `"Diseased"` by clicking on the text and typing the new name.
+Rename the classes to `"Cats"` and `"Dogs"` by clicking on the text and typing the new name.
 
 ![Rename Classes](tutorial/4.%20Rename%20Classes.png)
 
-Now you can upload all the images from this repository (look at the `healthy` and `disease` folders in the `"Train"` folder in this repository) by clicking on the "Upload" button. **Note: It may take a long time if you use lots of images, but just be patient - the website will load all the images in the background.**
+Now you can upload all the 'good' images of both cats and dogs from this repository (found in the 'train_images" folder) by clicking on the "Upload" button. **Note: It may take a long time if you use lots of images, but just be patient - the website will load all the images in the background.**
 
 ![Add Images](tutorial/5.%20Add%20Images.png)
 
@@ -75,10 +78,6 @@ Once you have uploaded all the images, you can start training your model. Click 
 After training, you can decline using the camera, and change the `"Input"` mode to `"File"`, and upload a test image, from the `"Test"` folder in this repository.
 
 ![Test Your Model](tutorial/7.%20Test%20Your%20Model.png)
-
-*(Optional)* If you are interested in going into more detail, or making another model and testing it with some code instead of through the browser, you can export the model by clicking on `"Export Model"`. You can find a sample exported model trained on all images in the `"Exported Model"` folder in this repository. Teachable Machine provides more instructions into how you can use this.
-
-![Exporting Your Model](tutorial/8.%20Exporting%20Your%20Model.png)
 
 ## Step 5: Stretch Exercises
 
