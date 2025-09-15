@@ -63,7 +63,7 @@ Rename the classes to `"Cats"` and `"Dogs"` by clicking on the text and typing t
 
 ![Rename Classes](tutorial/4.%20Rename%20Classes.png)
 
-Now you can upload all the 'good' images of both cats and dogs from this repository (found in the 'train_images" folder) by clicking on the "Upload" button. **Note: It may take a long time if you use lots of images, but just be patient - the website will load all the images in the background.**
+Now you can upload all the 'good' images of both cats and dogs from this repository (found in the '"train_images"' folder) by clicking on the "Upload" button. **Note: It may take a long time if you use lots of images, but just be patient - the website will load all the images in the background.**
 
 ![Add Images](tutorial/5.%20Add%20Images.png)
 
@@ -81,9 +81,9 @@ After training, you can decline using the camera, and change the `"Input"` mode 
 
 ## Step 5: Stretch Exercises
 
-1. Try and test your model with the images in the `"Extension"` folder. You have sample images for `"bronchitis"`, `"cancer"`, `"cartoon"`, `"child"`, and `"inverted"` lungs. You can also try and test your model with images from the internet. You can use [Google Images](https://www.google.com/imghp) to search for images of `"healthy lungs"` and `"disease lungs"`. What about other scans of different organs?
+1. Try and test your model with the images in the `"train_images"` folder that are labelled '"bad"'. You can also try and test your model with images from the internet. You can use [Google Images](https://www.google.com/imghp) to search for images of different animals.
 
-2. Could you try and use the exported model in either JavaScript or Python to validate all the images in the `"test"` folder from the full dataset [here](https://www.kaggle.com/datasets/obulisainaren/multi-cancer)? Look into what a [confuion matrix](https://en.wikipedia.org/wiki/Confusion_matrix) is and how we can interpet it.
+2. Repeat steps 3 and 4 but uploading the '"average"' cat and dog images from '"train_images"'.
 
 ## Conclusion
 
