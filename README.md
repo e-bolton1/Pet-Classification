@@ -75,7 +75,7 @@ Once you have uploaded all the images, you can start training your model. Click 
 
 ## Step 4: Test Your Model
 
-After training, you can decline using the camera, and change the `"Input"` mode to `"File"`, and upload a test image, from the `"Test"` folder in this repository.
+After training, you can decline using the camera, and change the `"Input"` mode to `"File"`, and upload a test image, from the `"Test"` folder in this repository. Save your results in '"Results Sheet"'.
 
 ![Test Your Model](tutorial/7.png)
 
