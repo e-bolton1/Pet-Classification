@@ -77,7 +77,7 @@ Once you have uploaded all the images, you can start training your model. Click 
 
 After training, you can decline using the camera, and change the `"Input"` mode to `"File"`, and upload a test image, from the `"Test"` folder in this repository.
 
-![Test Your Model](tutorial/7.%20Test%20Your%20Model.png)
+![Test Your Model](tutorial/7.png)
 
 ## Step 5: Stretch Exercises
 
