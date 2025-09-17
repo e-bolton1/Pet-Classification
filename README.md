@@ -61,15 +61,15 @@ Select `"Standard Image Model"` to create a model that can classify images.
 
 Rename the classes to `"Cats"` and `"Dogs"` by clicking on the text and typing the new name.
 
-![Rename Classes](images/)
+![Rename Classes](images/4.png)
 
 Now you can upload all the 'good' images of both cats and dogs from this repository (found in the `"train_images"` folder) by clicking on the "Upload" button. **Note: It may take a long time if you use lots of images, but just be patient - the website will load all the images in the background.**
 
-![Add Images](tutorial/4. rename.png)
+![Add Images](tutorial/5.png)
 
 *(Optional)* Now you can edit the training paramaters (by selecting `"Advanced"`).
 
-![Training Parameters](tutorial/6.%20Training%20Parameters.png)
+![Training Parameters](tutorial/6.png)
 
 Once you have uploaded all the images, you can start training your model. Click on the `"Train Model"` button. It may take some time to train all the images. **Note: Make sure you do not switch tabs!**.
 
