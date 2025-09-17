@@ -83,7 +83,7 @@ After training, you can decline using the camera, and change the `"Input"` mode 
 
 1. Try and test your model with the images in the `"train_images"` folder that are labelled '"bad"'. You can also try and test your model with images from the internet. You can use [Google Images](https://www.google.com/imghp) to search for images of different animals.
 
-2. Repeat steps 3 and 4 but uploading the `"average"` cat and dog images from `"train_images"`.
+2. Repeat steps 3 and 4 but uploading the `"average"` cat and dog images from `"train_images"` as the train images.
 
 ## Conclusion
 
