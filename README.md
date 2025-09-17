@@ -1,6 +1,6 @@
 # Warm up Exercises
 
-
+[Slido](https://teams.microsoft.com/l/message/19:80a2e3cd-863d-4a92-a742-9529f20ae8b4_eef4633e-5c91-4cb0-aae4-a1af2fd84ba9@unq.gbl.spaces/1757950598918?context=%7B%22contextType%22%3A%22chat%22%7D)
 
 # Training Your Own AI Model
 
@@ -89,6 +89,3 @@ After training, you can decline using the camera, and change the `"Input"` mode 
 
 2. Repeat steps 3 and 4 but uploading the `"average"` cat and dog images from `"train_images"` as the train images.
 
-## Conclusion
-
-Congratulations! You have successfully trained your own AI model, to classify pneumonia in x-ray images of lungs using Teachable Machine.
