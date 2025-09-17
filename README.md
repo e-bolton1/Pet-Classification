@@ -1,3 +1,7 @@
+# Warm up Exercises
+
+
+
 # Training Your Own AI Model
 
 **_See this tutorial on the website [here](https://omariosc.github.io/classifying-lung-disease/)._**
@@ -75,13 +79,13 @@ Once you have uploaded all the images, you can start training your model. Click 
 
 ## Step 4: Test Your Model
 
-After training, you can decline using the camera, and change the `"Input"` mode to `"File"`, and upload a test image, from the `"Test"` folder in this repository. Save your results in '"Results Sheet"'.
+After training, you can decline using the camera, and change the `"Input"` mode to `"File"`, and upload a test image, from the `"Test"` folder in this repository. Save your results in `"Results Sheet"`.
 
 ![Test Your Model](tutorial/7.png)
 
 ## Step 5: Stretch Exercises
 
-1. Try and test your model with the images in the `"train_images"` folder that are labelled '"bad"'. You can also try and test your model with images from the internet. You can use [Google Images](https://www.google.com/imghp) to search for images of different animals.
+1. Try and test your model with the images in the `"train_images"` folder that are labelled `"bad"`. You can also try and test your model with images from the internet. You can use [Google Images](https://www.google.com/imghp) to search for images of different animals.
 
 2. Repeat steps 3 and 4 but uploading the `"average"` cat and dog images from `"train_images"` as the train images.
 
