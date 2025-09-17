@@ -61,7 +61,7 @@ Select `"Standard Image Model"` to create a model that can classify images.
 
 Rename the classes to `"Cats"` and `"Dogs"` by clicking on the text and typing the new name.
 
-![Rename Classes](tutorial/4.%20Rename%20Classes.png)
+![Rename Classes](images/)
 
 Now you can upload all the 'good' images of both cats and dogs from this repository (found in the `"train_images"` folder) by clicking on the "Upload" button. **Note: It may take a long time if you use lots of images, but just be patient - the website will load all the images in the background.**
 
