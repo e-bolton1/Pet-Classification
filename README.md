@@ -1,6 +1,6 @@
 # Warm up Exercises
 
-[Slido](https://teams.microsoft.com/l/message/19:80a2e3cd-863d-4a92-a742-9529f20ae8b4_eef4633e-5c91-4cb0-aae4-a1af2fd84ba9@unq.gbl.spaces/1757950598918?context=%7B%22contextType%22%3A%22chat%22%7D)
+[Slido](https://app.sli.do/event/xaJmSKrSbhRYP1FMuRBg86/live/polls)
 
 # Training Your Own AI Model
 
