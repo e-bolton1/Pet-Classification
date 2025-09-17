@@ -65,7 +65,7 @@ Rename the classes to `"Cats"` and `"Dogs"` by clicking on the text and typing t
 
 Now you can upload all the 'good' images of both cats and dogs from this repository (found in the `"train_images"` folder) by clicking on the "Upload" button. **Note: It may take a long time if you use lots of images, but just be patient - the website will load all the images in the background.**
 
-![Add Images](tutorial/5.%20Add%20Images.png)
+![Add Images](tutorial/4. rename.png)
 
 *(Optional)* Now you can edit the training paramaters (by selecting `"Advanced"`).
 
